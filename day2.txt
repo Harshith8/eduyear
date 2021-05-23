@@ -1,0 +1,4 @@
+a='Harshith'
+b=20
+c=3.14
+print("my name is {}.my age is {},and pi value is {}".format(a,b,c))
