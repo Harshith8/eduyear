@@ -1,4 +1,0 @@
-date_of_birth=int(input("enter your D.O.B ="))
-current_year=2021
-age=current_year-date_of_birth
-print("age = {}".format(age))
