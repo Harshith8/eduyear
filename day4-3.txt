@@ -1,0 +1,2 @@
+a="EDUyEaR"
+print(a.swapcase())
