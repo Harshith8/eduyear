@@ -1,0 +1,10 @@
+nums=[789,232,676,890,653,123]
+for i in range(len(nums)):
+    num=nums[i]
+    temp=str(num)
+    temp=temp[ : :-1]
+    temp=int(temp)
+    if temp==num:
+        print("it is palindrome")
+    else:
+        print("not a palindrome")

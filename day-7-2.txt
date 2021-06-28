@@ -1,0 +1,7 @@
+string='hello world happy birthday'
+temp=string.split()
+temp=temp[ : :-1]
+temp=str(temp)
+print(temp)
+
+

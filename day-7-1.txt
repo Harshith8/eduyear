@@ -1,0 +1,6 @@
+vowels=['a','e','i','o','u','A','E','I','O','U']
+name=(input("enter a name :"))
+for i in name:
+    if i in vowels:
+        print(name.index(i))
+     

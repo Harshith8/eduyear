@@ -1,0 +1,5 @@
+list=[1,2,1]
+if list[ : :-1]== list: 
+    print("The given list is palindrome")
+else:
+    print("the given list is not palindrome")

@@ -1,0 +1,11 @@
+list=[56,72,89,76,54,32,90,101,92]
+min_no=list[0]
+max_no=list[0]
+for i in range(len(list)):
+    if list[i]<min_no:
+        min_no=list[i]
+    if list[i]>max_no:
+        max_no=list[i]
+print(f'max number in the list is {max_no}')
+print(f'min number in the list is {min_no}')
+
